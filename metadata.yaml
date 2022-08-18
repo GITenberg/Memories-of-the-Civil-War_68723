@@ -1,11 +1,16 @@
 _repo: Memories-of-the-Civil-War_68723
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68723-h/images/cover.jpg
 creator:
   author:
     agent_name: James, Henry B.
     gutenberg_agent_id: '54916'
     url: http://www.gutenberg.org/2009/agents/54916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68723#Memories-of-the-Civil-War
 gutenberg_issued: '2022-08-10'
 identifiers:
   gutenberg: '68723'
